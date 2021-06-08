@@ -15,3 +15,6 @@ Frameworks used: Django
 
 ## Covid 19 Forums
 <img src = "https://user-images.githubusercontent.com/73742827/121117485-ce9ab780-c835-11eb-8efc-3a64ee2a1989.png">
+
+## Covid 19 Online Pharmacy
+<img src = "https://user-images.githubusercontent.com/73742827/121123438-d90e7e80-c840-11eb-98f6-ff3f1c50b931.png">
